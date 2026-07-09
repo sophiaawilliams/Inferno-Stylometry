@@ -1,0 +1,11 @@
+spacy
+spacy-langdetect
+nltk
+matplotlib
+seaborn
+pandas
+numpy
+
+# After installation, run:
+# python -m spacy download it_core_news_sm
+# python -m spacy download en_core_web_sm
